@@ -2,6 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
+    background-color: #b98ae0;
 }
 
 img {
@@ -11,6 +12,7 @@ img {
 
 p {
     color: #333;
+    font-family: "Alegreya", serif;
 }
 
 .position {
@@ -30,12 +32,13 @@ p {
   }
 
 .timer {
-    background-color: #333;
+    background-color: #CA861B;
     color: #fff;
     padding: 20px;
     margin-bottom: 10px;
     border-radius: 10px;
     text-align: center;
+    font-family: "Alegreya", serif;
 }
 
 .timer h1 {
@@ -49,8 +52,8 @@ p {
 
 
 .head h1{
-    
-        color: #333;
+    font-family: "Noto Serif", serif;
+    color: #333;
 }
 
 @media (max-width: 1250px) {
